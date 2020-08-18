@@ -1,2 +1,4 @@
 # timerProject
-Timper Web App 
+Timer App in progress
+
+Working in this timer.
