@@ -9,5 +9,4 @@
   * The svg animation reduce the perimeter at the same time as timer is running out.
   
   
-  <a href="https://ibb.co/rM1PKNK"><img src="https://i.ibb.co/rM1PKNK/Captura-de-pantalla-2020-08-22-a-las-10-18-05.png" alt="Captura-de-pantalla-2020-08-22-a-las-10-18-05" border="0"></a>
-  
+  <a href="https://ibb.co/rM1PKNK"><img src="https://i.ibb.co/Y8q94w4/Captura-de-pantalla-2020-08-22-a-las-10-18-05.png" alt="Captura-de-pantalla-2020-08-22-a-las-10-18-05" border="0"></a>
