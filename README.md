@@ -1,5 +1,5 @@
 # timerProject
-### Timer App in progress
+### Timer App
 
  This is a basic exercise to practice OOP in JavaScript.
  
